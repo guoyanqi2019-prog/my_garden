@@ -39,7 +39,7 @@
     <div class="project-title">AI小白马数字花园</div>
     <p class="project-desc">用 Obsidian + Digital Garden 构建的个人知识库，记录一个非程序员探索 AI 和效率工具的真实旅程。你现在看到的就是这个项目本身。</p>
     <span class="project-status status-active">✦ 持续更新</span>
-    <a class="project-link" href="/my_garden/project-digital-garden">查看详情 →</a>
+    <a class="project-link" href="/my_garden/projects/project-digital-garden">查看详情 →</a>
   </div>
 </div>
 
@@ -49,7 +49,7 @@
     <div class="project-title">Remotion 视频探索</div>
     <p class="project-desc">用 Remotion 这个工具探索用代码制作视频的可能性。作为非程序员，我想搞清楚这个工具到底能帮普通人做什么。</p>
     <span class="project-status status-building">⚒ 探索中</span>
-    <a class="project-link" href="/my_garden/project-remotion">查看详情 →</a>
+    <a class="project-link" href="/my_garden/projects/project-remotion">查看详情 →</a>
   </div>
 </div>
 
@@ -59,7 +59,7 @@
     <div class="project-title">OpenCode 实践记录</div>
     <p class="project-desc">用 OpenCode 这个 AI 编程工具做实际项目，记录一个不会写代码的人如何借助 AI 完成编程任务的完整过程。</p>
     <span class="project-status status-building">⚒ 探索中</span>
-    <a class="project-link" href="/my_garden/project-opencode">查看详情 →</a>
+    <a class="project-link" href="/my_garden/projects/project-opencode">查看详情 →</a>
   </div>
 </div>
 
@@ -72,7 +72,7 @@
     <div class="project-title">微信公众号</div>
     <p class="project-desc">即将开通，用来分享每周的 AI 工具探索和一人公司实践，用普通人听得懂的语言写给和我一样的非程序员。</p>
     <span class="project-status status-planned">◎ 即将上线</span>
-    <a class="project-link" href="/my_garden/project-wechat">查看详情 →</a>
+    <a class="project-link" href="/my_garden/projects/project-wechat">查看详情 →</a>
   </div>
 </div>
 
@@ -82,7 +82,7 @@
     <div class="project-title">非程序员的 AI 工具指南</div>
     <p class="project-desc">计划整理一份给普通人用的 AI 工具入门指南，从实际使用经验出发，不讲原理只讲怎么用。</p>
     <span class="project-status status-planned">◎ 规划中</span>
-    <a class="project-link" href="/my_garden/project-ai-guide">查看详情 →</a>
+    <a class="project-link" href="/my_garden/projects/project-ai-guide">查看详情 →</a>
   </div>
 </div>
 
