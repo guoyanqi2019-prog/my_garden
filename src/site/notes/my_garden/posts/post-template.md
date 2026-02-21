@@ -118,8 +118,18 @@
 <!-- CTA -->
 <div class="article-cta">
   <h3>每周更多这样的探索</h3>
-  <p>微信公众号即将上线，非程序员视角的 AI 工具和效率分享</p>
-  <a href="/">📱 敬请期待</a>
+  <p>关注我的微信公众号，获取非程序员视角的 AI 工具和效率分享</p>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 1.5rem;">
+    <div style="text-align: center;">
+      <p style="margin: 0 0 0.8rem; font-size: 0.95rem; color: #ccc; font-weight: 500;">📱 我不是程序员，没有计算机背景</p>
+      <p style="margin: 0; font-size: 0.85rem; color: #aaa; max-width: 500px;">只是一个对科技充满好奇的普通人，在这里分享我的学习历程和实战经验</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+      <img src="/my_garden/assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="width: 160px; height: 160px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <p style="margin: 0; font-size: 0.8rem; color: #999;">扫码关注，每周获取最新内容</p>
+    </div>
+  </div>
 </div>
 
 <br>
