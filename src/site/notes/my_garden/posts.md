@@ -53,12 +53,12 @@
 <div class="posts-section">
   <div class="posts-section-title">⚡ 效率工具</div>
 
-  <a class="post-item" href="/my_garden/post-template">
+  <a class="post-item" href="/my_garden/post-obsidian-digital-garden">
     <div>
-      <div class="post-title">示范文章：用 Obsidian 建数字花园的完整过程</div>
-      <div class="post-desc">非程序员也能搞定的部署全记录</div>
+      <div class="post-title">非程序员也能搞定：用 Obsidian 建数字花园的完整过程</div>
+      <div class="post-desc">非程序员也能搞定的部署全记录，包括踩过的三个坑</div>
     </div>
-    <div class="post-meta">待发布</div>
+    <div class="post-meta">2026-02-21</div>
   </a>
 
   <!-- 日后在这里添加更多文章 -->
