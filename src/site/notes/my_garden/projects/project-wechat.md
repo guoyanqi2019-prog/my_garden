@@ -49,7 +49,7 @@
     <p style="margin: 0; font-size: 0.85rem; color: #666; max-width: 500px;">只是一个对科技充满好奇的普通人，在这里分享我的学习历程和实战经验</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-    <img src="/my_garden/assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="width: 180px; height: 180px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="/my_garden/assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <p style="margin: 0; font-size: 0.9rem; color: #444; font-weight: 500;">扫码关注，每周获取最新内容</p>
   </div>
 </div>

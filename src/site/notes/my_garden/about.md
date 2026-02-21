@@ -65,7 +65,10 @@
 
 <div class="about-cta">
   <p>每周分享我的探索和发现，非程序员也能看懂</p>
-  <a href="/">📱 微信公众号即将上线</a>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 1.5rem;">
+    <img src="/my_garden/assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="max-width: 160px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 0; font-size: 0.85rem; color: #ccc;">扫码关注，每周获取最新内容</p>
+  </div>
 </div>
 
 </div>
