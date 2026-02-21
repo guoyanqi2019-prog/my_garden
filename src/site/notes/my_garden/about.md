@@ -66,7 +66,7 @@
 <div class="about-cta">
   <p>每周分享我的探索和发现，非程序员也能看懂</p>
   <div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 1.5rem;">
-    <img src="assets/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/guoyanqi2019-prog/my_garden/main/src/site/img/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     <p style="margin: 0; font-size: 0.85rem; color: #ccc;">扫码关注，每周获取最新内容</p>
   </div>
 </div>

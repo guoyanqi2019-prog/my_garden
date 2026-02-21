@@ -36,7 +36,7 @@
       <p style="margin: 0; font-size: 0.9rem; color: #555;">每周同步更新最新文章和思考，非程序员视角的AI探索</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-      <img src="./assets/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 100px; height: auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="https://raw.githubusercontent.com/guoyanqi2019-prog/my_garden/main/src/site/img/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 100px; height: auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <p style="margin: 0; font-size: 0.75rem; color: #777;">扫码关注</p>
     </div>
   </div>
