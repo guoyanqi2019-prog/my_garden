@@ -69,9 +69,9 @@
 <div class="project-card">
   <div class="project-icon" style="background: linear-gradient(135deg, #553c9a, #9f7aea);">📱</div>
   <div class="project-body">
-    <div class="project-title">微信公众号</div>
-    <p class="project-desc">即将开通，用来分享每周的 AI 工具探索和一人公司实践，用普通人听得懂的语言写给和我一样的非程序员。</p>
-    <span class="project-status status-planned">◎ 即将上线</span>
+    <div class="project-title">AI小白马微信公众号</div>
+    <p class="project-desc">已经上线！每周分享非程序员视角的 AI 工具探索、一人公司实践和效率提升方法。用普通人听得懂的语言，写给和我一样对科技好奇但不会编程的普通人。</p>
+    <span class="project-status status-active">✦ 已上线</span>
     <a class="project-link" href="/my_garden/projects/project-wechat">查看详情 →</a>
   </div>
 </div>

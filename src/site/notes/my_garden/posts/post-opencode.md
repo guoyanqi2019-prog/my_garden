@@ -148,7 +148,7 @@
       <p style="margin: 0; font-size: 0.85rem; color: #aaa; max-width: 500px;">只是一个对科技充满好奇的普通人，在这里分享我的学习历程和实战经验</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-      <img src="../assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="max-width: 160px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <img src="../assets/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 160px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
       <p style="margin: 0; font-size: 0.8rem; color: #999;">扫码关注，每周获取最新内容</p>
     </div>
   </div>

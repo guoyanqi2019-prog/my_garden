@@ -36,7 +36,7 @@
       <p style="margin: 0; font-size: 0.9rem; color: #555;">每周同步更新最新文章和思考，非程序员视角的AI探索</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-      <img src="./assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="max-width: 100px; height: auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="./assets/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 100px; height: auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <p style="margin: 0; font-size: 0.75rem; color: #777;">扫码关注</p>
     </div>
   </div>
