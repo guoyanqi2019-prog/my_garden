@@ -30,7 +30,16 @@
 <p class="posts-intro">一个非程序员对 AI、效率工具和一人公司的真实探索。每篇文章都从实际经历出发，不讲原理只讲感受和方法。</p>
 
 <div class="posts-subscribe">
-  📱 微信公众号即将上线，每周同步更新 · <strong>敬请期待</strong>
+  <div style="display: flex; align-items: center; gap: 1.5rem;">
+    <div style="flex: 1;">
+      <p style="margin: 0 0 0.5rem; font-weight: 600; color: #333;">📱 关注我的微信公众号</p>
+      <p style="margin: 0; font-size: 0.9rem; color: #555;">每周同步更新最新文章和思考，非程序员视角的AI探索</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
+      <img src="./assets/公众号二维码AI小白马.png" alt="AI小白马微信公众号二维码" style="max-width: 100px; height: auto; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <p style="margin: 0; font-size: 0.75rem; color: #777;">扫码关注</p>
+    </div>
+  </div>
 </div>
 
 <!-- AI 工具 -->
