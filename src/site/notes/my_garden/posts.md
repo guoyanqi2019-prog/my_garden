@@ -43,9 +43,9 @@
 
 <!-- AUTO_SECTIONS_START -->
 
-<!-- 其他 -->
+<!-- 一人探索 -->
 <div class="posts-section">
-  <div class="posts-section-title">其他</div>
+  <div class="posts-section-title">一人探索</div>
 
   <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
     <div>
