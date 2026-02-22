@@ -42,9 +42,41 @@
   </div>
 </div>
 
-<!-- AI 工具 -->
+
+<!-- AI工具探索 -->
 <div class="posts-section">
-  <div class="posts-section-title">🤖 AI 工具探索</div>
+  <div class="posts-section-title">AI工具探索</div>
+
+  <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
+    <div>
+      <div class="post-title">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
+      <div class="post-desc">我花了一整天，才把一个"看起来很简单"的邮件订阅表单搞定。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+  <a class="post-item" href="/my_garden/posts/post-opencode">
+    <div>
+      <div class="post-title">OpenCode 让我这个不会编程的人做出了什么</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
+
+</div>
+
+<!-- 效率工具 -->
+<div class="posts-section">
+  <div class="posts-section-title">效率工具</div>
+
+  <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
+    <div>
+      <div class="post-title">用 Obsidian 建数字花园的完整过程</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
+
+</div>
 
   <a class="post-item" href="/my_garden/posts/post-opencode">
     <div>
@@ -54,13 +86,41 @@
     <div class="post-meta">2026-02-21</div>
   </a>
 
-  <!-- 日后在这里添加更多文章 -->
+  
+<!-- AI工具探索 -->
+<div class="posts-section">
+  <div class="posts-section-title">AI工具探索</div>
+
+  <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
+    <div>
+      <div class="post-title">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
+      <div class="post-desc">我花了一整天，才把一个"看起来很简单"的邮件订阅表单搞定。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+  <a class="post-item" href="/my_garden/posts/post-opencode">
+    <div>
+      <div class="post-title">OpenCode 让我这个不会编程的人做出了什么</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
 
 </div>
 
 <!-- 效率工具 -->
 <div class="posts-section">
-  <div class="posts-section-title">⚡ 效率工具</div>
+  <div class="posts-section-title">效率工具</div>
+
+  <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
+    <div>
+      <div class="post-title">用 Obsidian 建数字花园的完整过程</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
+
+</div>
 
   <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
     <div>
@@ -70,13 +130,41 @@
     <div class="post-meta">2026-02-21</div>
   </a>
 
-  <!-- 日后在这里添加更多文章 -->
+  
+<!-- AI工具探索 -->
+<div class="posts-section">
+  <div class="posts-section-title">AI工具探索</div>
+
+  <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
+    <div>
+      <div class="post-title">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
+      <div class="post-desc">我花了一整天，才把一个"看起来很简单"的邮件订阅表单搞定。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+  <a class="post-item" href="/my_garden/posts/post-opencode">
+    <div>
+      <div class="post-title">OpenCode 让我这个不会编程的人做出了什么</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
 
 </div>
 
-<!-- 一人公司 -->
+<!-- 效率工具 -->
 <div class="posts-section">
-  <div class="posts-section-title">💼 一人公司</div>
+  <div class="posts-section-title">效率工具</div>
+
+  <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
+    <div>
+      <div class="post-title">用 Obsidian 建数字花园的完整过程</div>
+      <div class="post-desc">.article-wrap { max-width: 680px; margin: 0 auto; padding: 3…</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
+
+</div>
 
   <a class="post-item" href="/my_garden/post-template">
     <div>
