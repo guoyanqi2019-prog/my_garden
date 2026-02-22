@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my_garden/posts/post-kit-signup-journey/","title":"我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑","tags":["AI学习","工具探索","真实记录"]}
+{"dg-publish":true,"permalink":"/my_garden/posts/post-kit-signup-journey/","title":"我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑","tags":["工具探索","真实记录"]}
 ---
 
 
