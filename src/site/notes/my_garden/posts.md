@@ -43,9 +43,9 @@
 
 <!-- AUTO_SECTIONS_START -->
 
-<!-- 效率工具 -->
+<!-- 一人公司 -->
 <div class="posts-section">
-  <div class="posts-section-title">效率工具</div>
+  <div class="posts-section-title">一人公司</div>
 
   <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
     <div>
@@ -54,6 +54,12 @@
     </div>
     <div class="post-meta">2026-02-22</div>
   </a>
+
+</div>
+
+<!-- 效率工具 -->
+<div class="posts-section">
+  <div class="posts-section-title">效率工具</div>
 
   <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
     <div>
