@@ -16,7 +16,7 @@
 
 /* 文章列表 */
 .post-item { display: flex; justify-content: space-between; align-items: baseline; padding: 1rem 0; border-bottom: 1px solid #f5f5f5; text-decoration: none; gap: 1rem; }
-.post-item:hover .post-title { color: #e53e3e; }
+.post-item:hover .post-title { color: #C9922A; }
 .post-title { font-size: 1rem; font-weight: 600; color: #111; transition: color 0.2s; flex: 1; line-height: 1.5; }
 .post-desc { font-size: 0.85rem; color: #999; margin-top: 0.2rem; }
 .post-meta { font-size: 0.8rem; color: #bbb; white-space: nowrap; }
@@ -49,7 +49,7 @@
 
   <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
     <div>
-      <div class="post-title">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
+      <div class="post-title" style="color:#C9922A;">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
       <div class="post-desc">我花了一整天，才把一个"看起来很简单"的邮件订阅表单搞定。</div>
     </div>
     <div class="post-meta">2026-02-22</div>
@@ -61,9 +61,17 @@
 <div class="posts-section">
   <div class="posts-section-title">效率工具</div>
 
+  <a class="post-item" href="/my_garden/posts/post-website-automation">
+    <div>
+      <div class="post-title" style="color:#C9922A;">我用一个晚上，把网站的自动化更新系统搭起来了</div>
+      <div class="post-desc">晚上9点55分，我只是想解决一个小问题。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+
   <a class="post-item" href="/my_garden/posts/post-obsidian-digital-garden">
     <div>
-      <div class="post-title">用 Obsidian 建数字花园的完整过程</div>
+      <div class="post-title" style="color:#C9922A;">用 Obsidian 建数字花园的完整过程</div>
       <div class="post-desc">如果你也对科技感兴趣但不会编程，这篇文章就是写给你的。</div>
     </div>
     <div class="post-meta">2026-02-21</div>
@@ -77,7 +85,7 @@
 
   <a class="post-item" href="/my_garden/posts/post-opencode">
     <div>
-      <div class="post-title">OpenCode 让我这个不会编程的人做出了什么</div>
+      <div class="post-title" style="color:#C9922A;">OpenCode 让我这个不会编程的人做出了什么</div>
       <div class="post-desc">AI 编程工具真正改变的不是"谁能写代码"，而是"谁能把想法变成现实"。</div>
     </div>
     <div class="post-meta">2026-02-21</div>
