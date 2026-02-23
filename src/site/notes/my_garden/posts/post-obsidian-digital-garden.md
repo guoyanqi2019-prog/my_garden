@@ -2,28 +2,27 @@
 {"dg-publish":true,"permalink":"/my_garden/posts/post-obsidian-digital-garden/","title":"用 Obsidian 建数字花园的完整过程","tags":["效率工具","Obsidian","数字花园"]}
 ---
 
-
 <style>
 .article-wrap { max-width: 680px; margin: 0 auto; padding: 3rem 2rem; }
-.article-tag { font-size: 0.8rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #e53e3e; margin-bottom: 1rem; }
+.article-tag { font-size: 0.8rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: #C9922A; margin-bottom: 1rem; }
 .article-wrap h1 { font-size: 2rem; font-weight: 800; color: #111; line-height: 1.2; margin: 0 0 1rem; }
 .article-meta { font-size: 0.85rem; color: #bbb; margin-bottom: 2.5rem; display: flex; gap: 1rem; flex-wrap: wrap; }
 .article-wrap p { font-size: 1rem; color: #333; line-height: 1.9; margin-bottom: 1.5rem; }
 .article-wrap h2 { font-size: 1.2rem; font-weight: 700; color: #111; margin: 2.5rem 0 1rem; }
 .article-wrap h3 { font-size: 1rem; font-weight: 700; color: #333; margin: 1.5rem 0 0.5rem; }
 .article-divider { border: none; border-top: 1px solid #eee; margin: 2.5rem 0; }
-.article-highlight { background: #f9f9f9; border-left: 3px solid #e53e3e; padding: 1rem 1.5rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem; color: #444; font-style: italic; }
+.article-highlight { background: #f9f9f9; border-left: 3px solid #C9922A; padding: 1rem 1.5rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem; color: #444; font-style: italic; }
 .step-box { background: #f9f9f9; border-radius: 8px; padding: 1.5rem; margin: 1.5rem 0; }
 .step-box h3 { margin: 0 0 0.5rem; color: #111; font-size: 0.95rem; }
 .step-box p { margin: 0; font-size: 0.9rem; color: #555; line-height: 1.7; }
-.step-number { display: inline-block; background: #e53e3e; color: #fff; width: 24px; height: 24px; border-radius: 50%; font-size: 0.75rem; font-weight: 700; text-align: center; line-height: 24px; margin-right: 0.5rem; }
+.step-number { display: inline-block; background: #C9922A; color: #fff; width: 24px; height: 24px; border-radius: 50%; font-size: 0.75rem; font-weight: 700; text-align: center; line-height: 24px; margin-right: 0.5rem; }
 .tip-box { background: #fffaf0; border: 1px solid #fbd38d; border-radius: 8px; padding: 1rem 1.5rem; margin: 1.5rem 0; font-size: 0.9rem; color: #744210; }
 .warn-box { background: #fff5f5; border: 1px solid #feb2b2; border-radius: 8px; padding: 1rem 1.5rem; margin: 1.5rem 0; font-size: 0.9rem; color: #742a2a; }
 .article-cta { background: #111; color: #fff; padding: 2rem; border-radius: 8px; margin-top: 3rem; text-align: center; }
 .article-cta h3 { color: #fff; margin: 0 0 0.5rem; }
 .article-cta p { color: #aaa; font-size: 0.9rem; margin-bottom: 1rem; }
-.article-cta a { background: #e53e3e; color: #fff; padding: 0.6rem 1.5rem; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 0.9rem; }
-.article-back { font-size: 0.85rem; color: #e53e3e; text-decoration: none; }
+.article-cta a { background: #C9922A; color: #fff; padding: 0.6rem 1.5rem; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+.article-back { font-size: 0.85rem; color: #C9922A; text-decoration: none; }
 .article-back:hover { text-decoration: underline; }
 </style>
 
@@ -152,21 +151,21 @@
 <!-- CTA -->
 <div class="article-cta">
   <h3>每周更多这样的探索</h3>
-  <p>关注我的微信公众号，获取非程序员视角的 AI 工具和效率分享</p>
   
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem; margin-top: 1.5rem;">
-    <div style="text-align: center;">
-      <p style="margin: 0 0 0.8rem; font-size: 0.95rem; color: #ccc; font-weight: 500;">📱 我不是程序员，没有计算机背景</p>
-      <p style="margin: 0; font-size: 0.85rem; color: #aaa; max-width: 500px;">只是一个对科技充满好奇的普通人，在这里分享我的学习历程和实战经验</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
-      <img src="https://raw.githubusercontent.com/guoyanqi2019-prog/my_garden/main/src/site/img/ai-xiaobaima-qrcode.png" alt="AI小白马微信公众号二维码" style="max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-      <p style="margin: 0; font-size: 0.8rem; color: #999;">扫码关注，每周获取最新内容</p>
-    </div>
-  </div>
+
+<br>
+<div style="display:flex;align-items:center;gap:40px;flex-wrap:wrap;margin:20px 0;">
+<div style="flex:1;min-width:260px;text-align:center;">
+<img src="https://raw.githubusercontent.com/guoyanqi2019-prog/my_garden/main/src/site/img/ai-xiaobaima-profile.png" alt="AI小白马" style="max-width:300px;width:100%;border-radius:12px;" />
+</div>
+<div style="flex:1;min-width:260px;">
+<script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+<form action="https://app.kit.com/forms/9117923/subscriptions" style="background-color:rgb(255,255,255);border-radius:6px;" class="seva-form formkit-form" method="post" data-sv-form="9117923" data-uid="3b70cc7e59" data-format="inline" data-version="5" min-width="400 500 600 700 800"><div data-style="full"><div data-element="column" class="formkit-column"><div class="formkit-header" style="color:rgb(83,83,83);font-size:24px;font-weight:700;" data-element="header"><h2>加入我的<br>AI 学习成长日志</h2></div><ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul><div data-element="fields" class="seva-fields formkit-fields"><div class="formkit-field"><input class="formkit-input" name="email_address" style="color:rgb(139,139,139);border-color:rgb(221,224,228);font-weight:400;" aria-label="Email Address" placeholder="Email Address" required="" type="email"></div><button data-element="submit" class="formkit-submit" style="color:rgb(255,255,255);background-color:rgb(201,146,42);border-radius:3px;font-weight:700;"><div class="formkit-spinner"><div></div><div></div><div></div></div><span>获取免费PDF文档及资源包</span></button></div><div class="formkit-disclaimer" style="color:rgb(139,139,139);font-size:13px;" data-element="disclaimer"><p><strong>每周更新，我的实战与学习经验，陪你成长</strong></p></div></div></div></form>
+</div>
 </div>
 
 <br>
 <a class="article-back" href="/my_garden/posts">← 返回文章列表</a>
 
+</div>
 </div>

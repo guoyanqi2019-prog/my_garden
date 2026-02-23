@@ -43,6 +43,44 @@
 
 <!-- AUTO_SECTIONS_START -->
 
+<!-- AI工具探索 -->
+<div class="posts-section">
+  <div class="posts-section-title">AI工具探索</div>
+
+  <a class="post-item" href="/my_garden/posts/post-garden-manager-tool">
+    <div>
+      <div class="post-title" style="color:#C9922A;">我用 AI 做了一个数字花园管理工具</div>
+      <div class="post-desc">于是我让 OpenCode 帮我写。两小时后，我有了一个完整的图形界面管理工具。</div>
+    </div>
+    <div class="post-meta">2026-02-23</div>
+  </a>
+
+  <a class="post-item" href="/my_garden/posts/post-ai-tool-guide">
+    <div>
+      <div class="post-title" style="color:#C9922A;">我用AI工作了90天，总结出这5个让效率翻倍的使用原则</div>
+      <div class="post-desc">90天前，我还在为"AI到底能帮我做什么"感到困惑。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+
+  <a class="post-item" href="/my_garden/posts/post-sample-ai-weekly">
+    <div>
+      <div class="post-title" style="color:#C9922A;">我的第一篇AI学习周记：从零开始用AI写代码</div>
+      <div class="post-desc">普通人用 AI 的真实状态：不是每天都有突破，但每天都在往前走一点。</div>
+    </div>
+    <div class="post-meta">2026-02-22</div>
+  </a>
+
+  <a class="post-item" href="/my_garden/posts/post-opencode">
+    <div>
+      <div class="post-title" style="color:#C9922A;">OpenCode 让我这个不会编程的人做出了什么</div>
+      <div class="post-desc">AI 编程工具真正改变的不是"谁能写代码"，而是"谁能把想法变成现实"。</div>
+    </div>
+    <div class="post-meta">2026-02-21</div>
+  </a>
+
+</div>
+
 <!-- 一人探索 -->
 <div class="posts-section">
   <div class="posts-section-title">一人探索</div>
@@ -50,7 +88,7 @@
   <a class="post-item" href="/my_garden/posts/post-kit-signup-journey">
     <div>
       <div class="post-title" style="color:#C9922A;">我注册 Kit 邮件订阅的全过程：一个普通人踩过的所有坑</div>
-      <div class="post-desc">我花了一整天，才把一个"看起来很简单"的邮件订阅表单搞定。</div>
+      <div class="post-desc">⚠️ <strong坑：表单宽度</strong：Charlotte 模板需要容器足够宽才会显示双列，嵌入文章后容器太窄…</div>
     </div>
     <div class="post-meta">2026-02-22</div>
   </a>
@@ -64,7 +102,7 @@
   <a class="post-item" href="/my_garden/posts/post-website-automation">
     <div>
       <div class="post-title" style="color:#C9922A;">我用一个晚上，把网站的自动化更新系统搭起来了</div>
-      <div class="post-desc">晚上9点55分，我只是想解决一个小问题。</div>
+      <div class="post-desc">与其写聪明的代码，不如把问题定义清楚。</div>
     </div>
     <div class="post-meta">2026-02-22</div>
   </a>
@@ -73,20 +111,6 @@
     <div>
       <div class="post-title" style="color:#C9922A;">用 Obsidian 建数字花园的完整过程</div>
       <div class="post-desc">如果你也对科技感兴趣但不会编程，这篇文章就是写给你的。</div>
-    </div>
-    <div class="post-meta">2026-02-21</div>
-  </a>
-
-</div>
-
-<!-- AI工具探索 -->
-<div class="posts-section">
-  <div class="posts-section-title">AI工具探索</div>
-
-  <a class="post-item" href="/my_garden/posts/post-opencode">
-    <div>
-      <div class="post-title" style="color:#C9922A;">OpenCode 让我这个不会编程的人做出了什么</div>
-      <div class="post-desc">AI 编程工具真正改变的不是"谁能写代码"，而是"谁能把想法变成现实"。</div>
     </div>
     <div class="post-meta">2026-02-21</div>
   </a>
